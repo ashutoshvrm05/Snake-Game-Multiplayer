@@ -1,4 +1,5 @@
 # 🐍 Local Multiplayer Snake 
+(built from scratch!)
 
 A competitive, fast-paced multiplayer twist on the classic Snake game. This game is specifically designed for **two players to play simultaneously on the exact same keyboard**, making it perfect for quick local versus matches!
 
