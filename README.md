@@ -2,6 +2,9 @@
 
 A competitive, fast-paced multiplayer twist on the classic Snake game. This game is specifically designed for **two players to play simultaneously on the exact same keyboard**, making it perfect for quick local versus matches!
 
+<img width="407" height="443" alt="Screenshot from 2026-07-09 16-23-07" src="https://github.com/user-attachments/assets/cb5224f9-540b-40f5-ba7d-13b97ece9b06" />
+
+
 ## 🎮 How to Play on the Same Device
 No network setup, servers, or second controllers required! Both players simply sit at the same computer and share the keyboard. 
 * **Player 1** commands the left side of the keyboard (WASD).
@@ -32,6 +35,12 @@ Player 2 (Green Snake):        W
 pip install pygame
 ```
 3. Run the game:
+  for Windows:
 ```bash
 python snakeLMP.py
 ```
+  for Linux/Mac
+```bash
+python3 snakeLMP.py
+```
+
