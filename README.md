@@ -35,11 +35,11 @@ Player 2 (Green Snake):        W
 pip install pygame
 ```
 3. Run the game:
-  for Windows:
+for Windows:
 ```bash
 python snakeLMP.py
 ```
-  for Linux/Mac
+for Linux/Mac
 ```bash
 python3 snakeLMP.py
 ```
